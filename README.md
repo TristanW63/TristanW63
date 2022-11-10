@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/108022127/199597298-1b5a966d-7db8-4ede-bfc8-cf6663e96c12.png)
 
 ## ![image](https://user-images.githubusercontent.com/108022127/199597969-94059751-a25f-4912-b879-b80724930107.png)
-Tour Guide turned Fullstack web developer with a passion for technology and solving complex problems. Ive learned a good amount to get started in the web devolpment feild and i am very excited to learn more and improve my current skills! Please check back periodcally as i continue to improve my skills and expand my repository!
+Tour Guide turned Full stack web developer eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly. These skills were learned at Vanderbilt University, Full stack web development  boot camp.
 
 
 
