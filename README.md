@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/108022127/199597298-1b5a966d-7db8-4ede-bfc8-cf6663e96c12.png)
 
 ## ![image](https://user-images.githubusercontent.com/108022127/199597969-94059751-a25f-4912-b879-b80724930107.png)
-Tour Guide turned Full stack web developer eager to join a creative, problem solving team. Ability to learn and implement new technologies quickly. These skills were learned at Vanderbilt University, Full stack web development  boot camp.
+Tour Guide turned Full stack web developer eager to join a creative, problem solving team. After earning my Full Stack Web Development certificate from Vanderbilt University Bootcamp, I have been able to apply the skills I've learned to develop and deploy web applications utilizing HTML, CSS, JavaScript, and various other open-source frameworks such as NodeJS, ExpressJS, MongoDB, MYSQL, ReactJS. In addition to my development skills I am confident in my ability to identify, rework and resolve any bugs or small errors in the existing application.
 
 
 
