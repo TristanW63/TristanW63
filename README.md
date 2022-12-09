@@ -12,8 +12,11 @@ HTML5, CSS3, Javascript, jQuery, Bootstrap, Materialize, Node.js, APIs, SQL, Exp
 
 ## ![image](https://user-images.githubusercontent.com/108022127/199598196-f6b625f5-2e84-4012-9f22-4853b050e886.png)
 Feel free to email me with any questions pertaining to my repository or inquirys!
+
 Email- tristanawilson63@gmail.com
+
 LinkedIn- https://www.linkedin.com/in/tristan-wilson-web-developer/
+
 Resume- https://docs.google.com/document/d/1aMOs_a-oA1tGP4D75vxzP4PNgxoMN6R_hvYn6BngvIM/edit?usp=sharing
 
 
