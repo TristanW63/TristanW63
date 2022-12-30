@@ -7,7 +7,7 @@ After earning my Full Stack Web Development certificate from Vanderbilt Universi
 
 ## ![image](https://user-images.githubusercontent.com/108022127/199597908-897b8d46-5833-41a7-bd33-03560a7361c1.png)
 Certification in Full Stack Web Development. Knowledge of front-end and back-end libraries and frameworks for building mobile responsive and progressive web applications.
-HTML5, CSS3, Javascript, jQuery, Bootstrap, Materialize, Node.js, APIs, SQL, Express
+HTML5, CSS3, Javascript, jQuery, Bootstrap, Node.js, APIs, SQL, Express, React.js, MongoDB, GraphQL
 
 
 ## ![image](https://user-images.githubusercontent.com/108022127/199598196-f6b625f5-2e84-4012-9f22-4853b050e886.png)
